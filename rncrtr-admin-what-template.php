@@ -1,7 +1,7 @@
 <?php
 /*
 * Plugin Name: Rncrtr Admin What Template
-Plugin URI: http://github.com/rncrtr/
+Plugin URI: https://github.com/rncrtr/rncrtr-admin-what-template
 Description: 
 Version: 0.1
 Author: Rncrtr
